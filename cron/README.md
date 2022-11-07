@@ -60,9 +60,13 @@ A: The cron expression will be
 31 12 3 * 5 /bin/bash /path/cron/backup-cron.sh
 ```
 31 : indicates that the cron will work every minute of value 31
+
 12 : indicates that the cron will work every hour of value 12  (12 AM since input is in 24 hr format )
+
 3  : indicates that the cron will work every day of date 3 each month
+
 '*': indicates that the cron will work every month
+
 5  : indicates that the cron will work every Friday
 
 so by combining the above, the script will run every 12:31AM on every 3rd of Friday ONLY .
