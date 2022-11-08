@@ -52,7 +52,7 @@ sudo apt install -y make
 ```
 # Question
 
-Q :What should be the cron expression if I need to run this backup every 3rd Friday
+Q :What should be the cron expression if I need to run this backup every Friday which is the third day
 of the month at 12:31 am ?
 
 A: The cron expression will be
