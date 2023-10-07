@@ -20,7 +20,7 @@ The script first takes four inputs from the user which are
 
 	• interval-secs:  time to wait between every check
 
-	• max-backups:   maximum number of backups need to be reserved
+	• max-backups:   maximum number of backups needed to be reserved
 
 
 
