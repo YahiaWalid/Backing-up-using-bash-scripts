@@ -160,7 +160,7 @@ Option 2 : using the Makefile
 ```
 make
 ```
-4. User can enter this command after to remove the backup directory
+4. User can enter this command later to remove the backup directory
 ```
 make clean
 ```
